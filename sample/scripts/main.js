@@ -1,0 +1,1 @@
+$("#exampleArray").sevenSeg({ digits: 5, value: 12.35 });
